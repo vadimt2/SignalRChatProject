@@ -1,0 +1,16 @@
+C:\Users\VadimPc\Desktop\Sela\SoaProjInfo\SheshBeshProj\Common\bin\Debug\Common.dll
+C:\Users\VadimPc\Desktop\Sela\SoaProjInfo\SheshBeshProj\Common\bin\Debug\Common.pdb
+C:\Users\VadimPc\Desktop\Sela\SoaProjInfo\SheshBeshProj\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\VadimPc\Desktop\Sela\SoaProjInfo\SheshBeshProj\Common\obj\Debug\Common.dll
+C:\Users\VadimPc\Desktop\Sela\SoaProjInfo\SheshBeshProj\Common\obj\Debug\Common.pdb
+C:\Users\VadimPc\Desktop\Sela\SoaProjInfo\SheshBeshProj\Common\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\VadimPc\Desktop\Sela\SoaProjInfo\SheshBeshProj\Common\bin\Debug\System.ComponentModel.Annotations.xml
+C:\Users\VadimPc\Desktop\Sela\SoaProjInfo\SheshBeshProj\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\VadimPc\Desktop\Sela\SoaProjInfo\SheshBeshProj\Common\bin\Debug\Windows.Foundation.UniversalApiContract.winmd
+C:\Users\VadimPc\Desktop\Sela\SoaProjInfo\SheshBeshProj\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Developer\MyShowCase\WPFAndASPAPI\SignalRChatProject\Common\bin\Debug\Common.dll
+D:\Developer\MyShowCase\WPFAndASPAPI\SignalRChatProject\Common\bin\Debug\Common.pdb
+D:\Developer\MyShowCase\WPFAndASPAPI\SignalRChatProject\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Developer\MyShowCase\WPFAndASPAPI\SignalRChatProject\Common\obj\Debug\Common.csproj.CopyComplete
+D:\Developer\MyShowCase\WPFAndASPAPI\SignalRChatProject\Common\obj\Debug\Common.dll
+D:\Developer\MyShowCase\WPFAndASPAPI\SignalRChatProject\Common\obj\Debug\Common.pdb
